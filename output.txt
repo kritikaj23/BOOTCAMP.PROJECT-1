@@ -1,0 +1,11 @@
+# OUTPUT
+        Name       Age    Address   Qualification     Employed      Gender      Covid Tested
+0        Jai          27      Delhi            Msc                    Yes           Male           ON MONDAY
+1     Princi        24     Kanpur          MA                     Yes          Female       ON SATURDAY
+2     Gaurav     22  Allahabad     MCA                      Yes          Male            STILL NOT TESTED
+3       Anuj        32    Kannauj         Phd                    Yes          Male            ON FRIDAY
+4        Ram      45     Nagpur      PGDCA                  No           Male          ON TUESDAY
+5     Nitika        23      Sagar          MDSC                 No          Female       NO INFORMATION
+6     Ragini       65     Indore        DBMC                  Yes          Female      ON WEDNESDAY
+7     Ruchir       47     Mumbai      B.ARCH              Yes          Male            ON 25TH JUNE
+8  Labhanshi   68     Chenni     M.ARCH                 Yes         Female         ON SUNDAY
